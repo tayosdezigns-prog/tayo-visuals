@@ -1,0 +1,6 @@
+{
+  "name": "AURA MOTION — AI Video Creator & Commercial Director",
+  "description": "High-end cinematic portfolio for an AI video creator, cinematic editor, and commercial director specializing in luxury product commercials and brand films.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
